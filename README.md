@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am 2 weeks into a bootcamp to become a full stack developer...#learningtocode🦾
+
 <!--
 **Ausiarm/ausiarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
