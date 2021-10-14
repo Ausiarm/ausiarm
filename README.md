@@ -4,7 +4,7 @@ I am 13 weeks into a bootcamp to become a full stack developer...#learningtocode
 
 - 🔭 I’m currently working on learning best practices when it comes to rails. Solidifying the MVC design pattern has been excellent as far as adding structure to the way I think about code. Next step will be to create a two-sided marketplace app!
 - 💬 Ask me about how best to approach fitness in a world dominated by vanity!
-- 📫 How to reach me: ausiarm@gmail.com, @strongarmed1 on insta and twitter
+- 📫 How to reach me: ausiarm@gmail.com, @lirumsa on insta and @ausiarm on twitter
 
 <!--
 **Ausiarm/ausiarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
