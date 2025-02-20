@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I am done with my bootcamp and now in the process of working to become a full stack developer...#learningtocode🦾
+I am the customer experience lead at Evolt on the Gold Coast. 
 
-- 🔭 I’m currently adding relevant content to my github now that I am an actual software engineer...
-- 💬 Ask me about how best to approach fitness in a world dominated by vanity!
-- 📫 How to reach me: ausiarm@gmail.com, @lirumsa on insta and @ausiarm on twitter
+Previously I was the lead developer on our flagship product: Evolt 360 BIA Kiosk
+
+- 🔭 I am always interested to learn about advancements in the fields of Biology and Technology
+- 💬 I have a deep respect for a healthy and balanced approach to personal well-being, if you are interested in collaborating on projects in this space please reach out
+- 📫 How to reach me: ausiarm@gmail.com, @armstrongashtonlewis on insta and @ausiarm on twitter
 
 <!--
 **Ausiarm/ausiarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
